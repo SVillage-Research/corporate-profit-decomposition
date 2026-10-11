@@ -1,0 +1,6 @@
+# 生データと生成物はコミットしない（データは公式の入手先から取得する）
+data/
+charts/*.png
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
